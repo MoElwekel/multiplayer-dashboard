@@ -1,4 +1,4 @@
-# Real-time Scoreboard (React & Socket.IO) 📊
+# Real-time Scoreboard 📊
 
 This is a simple project that demonstrates a real-time multiplayer scoreboard built with a **React** frontend and a **Node.js** backend using **Socket.IO**.
 
