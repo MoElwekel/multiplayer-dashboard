@@ -1,4 +1,4 @@
-Real-time Scoreboard📊
+Real-time Scoreboard 📊
 This is a simple project that demonstrates a real-time multiplayer scoreboard built with a React frontend and a Node.js backend using Socket.IO.
 
 The primary goal of this project was to learn and practice the fundamentals of WebSockets for real-time, bi-directional communication between clients and a server.
